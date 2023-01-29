@@ -3,7 +3,7 @@ This is a code repository of a MERN AI Image Generation App based on OpenAI's DA
 
 ### Key Stacks
 1. Node.js, Express.js, MongoDB, and React.js 
-2. Tailwind
+2. Tailwind CSS
 3. OpenAI's DALL-E model
 4. Cloudinary
 
