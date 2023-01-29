@@ -1,4 +1,4 @@
-## JS based ChatGPT Web App
+## MERN AI Image Generation App
 This is a code repository of a MERN AI Image Generation App based on OpenAI's DALL-E v2 model. This application is deployed and currently hosted [here](https://derrick-dalle.netlify.app/).
 
 ### Key Stacks
