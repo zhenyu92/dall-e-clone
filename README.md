@@ -1,4 +1,14 @@
-# Build and Deploy a Full Stack MERN AI Image Generation App  MidJourney & DALL E Clone
-![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)
+## JS based ChatGPT Web App
+This is a code repository of a MERN AI Image Generation App based on OpenAI's DALL-E v2 model. This application is deployed and currently hosted [here](https://derrick-dalle.netlify.app/).
 
-### Launch your development career with project-based coaching - https://www.jsmastery.pro
+### Key Stacks
+1. Node.js, Express.js, MongoDB, and React.js 
+2. Tailwind
+3. OpenAI's DALL-E model
+4. Cloudinary
+
+### Screenshot
+![image](https://github.com/zhenyu92/dall-e-clone/blob/main/screenshot.PNG)
+
+### Credits
+This project is a part of the learning series delivered by [JavaScript Mastery](https://github.com/adrianhajdin).
